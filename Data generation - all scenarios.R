@@ -1,5 +1,5 @@
 rm(list=ls())
-set.seed(42)
+set.seed(42) # the answer to the ultimate question of life, the universe and everything
 N.sim=1000
 library(MASS)
 
